@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_send_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_monthly_reports_fragment.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\monthly_reports_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_email_fragment.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\add_email_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nedoanim11.gif.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\nedoanim11.gif"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_phone_fragment.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\add_phone_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_request_history.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\request_history.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode.jpg.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\qrcode.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile1.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leavehistory.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\leavehistory.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_request.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\send_request.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_screen_lock_portrait_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_screen_lock_portrait_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_account_info_fragment.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\account_info_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tools.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_usericon.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-hdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_picture_as_pdf_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_picture_as_pdf_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attendance.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\attendance.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode2.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\qrcode2.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings_phone_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_rounded.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_last_send_report_fragment.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\last_send_report_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_picture_as_pdf_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_picture_as_pdf_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attendancetrend.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\attendancetrend.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loader.gif.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable\\loader.gif"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_screen_lock_portrait_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_screen_lock_portrait_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_black_24dp.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\mohsi\\Downloads\\30 Mar\\Porjects\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    }
+]

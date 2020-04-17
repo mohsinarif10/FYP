@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fyp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:29:5-81
+13-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:29:22-78
+14    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+14-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+14-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:22-62
+15    <uses-feature
+15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+16        android:name="android.hardware.camera"
+16-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
+17        android:required="false" />
+17-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
+18    <uses-feature
+18-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+19        android:name="android.hardware.camera.front"
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+20        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+21    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+23        android:name="android.hardware.camera.autofocus"
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+26        android:name="android.hardware.camera.flash"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+29        android:name="android.hardware.screen.landscape"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+32        android:name="android.hardware.wifi"
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+34
+35    <application
+35-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:7:5-28:19
+36        android:name="androidx.multidex.MultiDexApplication"
+37        android:allowBackup="true"
+37-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:10:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.1.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@drawable/logo"
+40-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:11:9-38
+41        android:label="@string/app_name"
+41-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:12:9-41
+42        android:networkSecurityConfig="@xml/network_security_config"
+42-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:9:9-69
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:13:9-54
+44        android:supportsRtl="true"
+44-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:14:9-35
+45        android:theme="@style/AppTheme"
+45-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:15:9-40
+46        android:usesCleartextTraffic="true" >
+46-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:8:9-44
+47        <activity
+47-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:16:9-19:68
+48            android:name="com.example.fyp.MainActivity"
+48-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:17:13-41
+49            android:label="@string/title_activity_main"
+49-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:18:13-56
+50            android:theme="@style/AppTheme.NoActionBar" />
+50-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:19:13-56
+51        <activity android:name="com.example.fyp.Login" />
+51-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:20:9-43
+51-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:20:19-40
+52        <activity android:name="com.example.fyp.Splash" >
+52-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:21:9-27:20
+52-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:21:19-41
+53            <intent-filter>
+53-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:22:13-26:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:23:17-69
+54-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:23:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:25:17-77
+56-->C:\Users\mohsi\Downloads\30 Mar\Porjects\app\src\main\AndroidManifest.xml:25:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+60            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+60-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+61            android:clearTaskOnLaunch="true"
+61-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+62            android:screenOrientation="sensorLandscape"
+62-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+63            android:stateNotNeeded="true"
+63-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+64            android:theme="@style/zxing_CaptureTheme"
+64-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+65            android:windowSoftInputMode="stateAlwaysHidden" />
+65-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\9c086f51a49186d64bee38ca07748dbd\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+66
+67        <provider
+67-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\80a00d5735d69f4f399457d9ccd7230d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+68            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\80a00d5735d69f4f399457d9ccd7230d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+69            android:authorities="com.example.fyp.lifecycle-process"
+69-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\80a00d5735d69f4f399457d9ccd7230d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+70            android:exported="false"
+70-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\80a00d5735d69f4f399457d9ccd7230d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+71            android:multiprocess="true" />
+71-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\mohsi\.gradle\caches\transforms-2\files-2.1\80a00d5735d69f4f399457d9ccd7230d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+72    </application>
+73
+74</manifest>
